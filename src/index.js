@@ -1,3 +1,5 @@
+import "./reset.css";
+import "./style.css";
 import * as d3 from "d3";
 import { cleanExoplanets } from "./cleanExoplanets";
 import exoplanetsDirty from "./exoplanets.json";
